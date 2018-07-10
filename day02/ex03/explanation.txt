@@ -1,0 +1,5 @@
+Using namespaces allows you to encapsulate classes under one scope.
+It also allows you redefinition of classes in different namespaces and change logic of those classes.
+
+Classes and structs define types. You can create an object of a type. Namespaces simply declare a scope inside which other types, functions, objects, or namespaces can exist.
+You can't create an object of type std (unless of course you created a type called  std, which would hide the std namespace).

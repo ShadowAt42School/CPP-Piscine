@@ -1,0 +1,12 @@
+.clang_complete
+.DS*
+./\.DS*
+11
+batteryinfo
+raminfo
+uptimeinfo
+info
+netinfo
+memoryInfo
+modelInfo
+serialNuminfo
